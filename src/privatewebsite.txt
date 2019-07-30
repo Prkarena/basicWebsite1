@@ -1,0 +1,45 @@
+1. New Project : create-react-app privatewebsite
+
+2. delete all files 
+
+3. Folder Structure :
+    3.1 Public 
+        3.1.1   Images
+        3.1.2   index.html
+    3.2 Src
+        3.2.1  Components : 
+            A) Header
+                a) header.js
+                b) header.css 
+            B) Footer 
+                a) footer.js 
+                b) footer.css 
+            c) Home 
+                a) home.js 
+                b) home.css 
+            D) AboutUs
+                a) aboutus.js
+                b) aboutus.css  
+            E) ContactUs 
+                a) contactus.js 
+                b) contactus.css 
+            F) Events 
+                a) events.js 
+                b) events.css
+            G) Products 
+                a) products.js
+                b) products.css
+            H) Services 
+                a) services.js 
+                b) services.css
+            I) Careers 
+                a) careers.js 
+                b) careers.css 
+
+        3.2.2  css :    
+            A) index.css 
+        3.2.3  hoc :
+        3.2.4 index.js :
+            
+
+
